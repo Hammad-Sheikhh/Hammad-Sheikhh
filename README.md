@@ -1,6 +1,6 @@
 # Hammad Sheikh
 
-**Embedded systems and full-stack developer** · Islamabad, Pakistan
+**Embedded systems and full-stack developer** · Pakistan
 
 I build across two layers: firmware for ESP32-based robots, and web applications backed by Supabase. I work spec first, with automated tests and CI on every push.
 
