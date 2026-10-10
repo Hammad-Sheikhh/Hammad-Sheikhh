@@ -4,7 +4,7 @@ Engineer in Islamabad, Pakistan, working across embedded firmware and web applic
 
 Most of what I build starts as a written spec and ends as something that runs outside my own laptop: on a rover, on a phone, or on a public URL. The repositories below are the working record of that.
 
-[Portfolio](https://hammad-sh.netlify.app) · [Email](mailto:hammadsheikh.cs@gmail.com) · [Instagram](https://instagram.com/hamad.exe_)
+[Portfolio](https://hammad-sh.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hammad-sheikh-655a55377) · [Email](mailto:hammadsheikh.cs@gmail.com) · [Instagram](https://instagram.com/hamad.exe_)
 
 ## Current work
 
