@@ -4,7 +4,7 @@
 
 I build across two layers: firmware for ESP32-based robots, and web applications backed by Supabase. I work spec first, with automated tests and CI on every push.
 
-[LinkedIn](https://www.linkedin.com/in/hammad-sheikh-655a55377) · [Email](mailto:hammadsheikh.cs@gmail.com) · [Instagram](https://instagram.com/hamad.exe_)
+[Portfolio](https://hammad-sheikh-portfolio-psi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/hammad-sheikh-655a55377) · [Email](mailto:hammadsheikh.cs@gmail.com) · [Instagram](https://instagram.com/hamad.exe_)
 
 ## Project status
 
